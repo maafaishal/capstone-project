@@ -1,0 +1,30 @@
+main {
+  grid-area: main;
+}
+
+main > section {
+  padding: 64px 8px;
+}
+
+.section-1 {
+  background-color: #495e57;
+  color: white;
+}
+
+.section-1 > div {
+  align-items: center;
+}
+
+.section-1 h1 {
+  font-size: 70px;
+  color: #f4ce14;
+}
+
+.section-1 img {
+  border-radius: 12pt;
+  height: 320px;
+}
+
+.section-1 button {
+  margin-top: 16px;
+}
